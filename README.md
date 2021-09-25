@@ -10,14 +10,6 @@
 composer require duiying/mysql-util
 ```
 
-**使用**
-
-**安装**
-
-```shell
-composer require duiying/mysql-util
-```
-
 **使用**  
 
 1、获取数据库连接
