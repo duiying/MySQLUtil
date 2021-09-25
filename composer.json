@@ -1,0 +1,23 @@
+{
+  "name": "duiying/mysql-util",
+  "description": "PHP ",
+  "type": "library",
+  "license": "Apache-2.0",
+  "keywords": [
+    "php"
+  ],
+  "authors": [
+    {
+      "name": "duiying",
+      "email": "wangyaxiandev@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "DuiYing\\": "src/"
+    }
+  }
+}
